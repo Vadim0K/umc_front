@@ -1,0 +1,30 @@
+.task-add-form {
+    margin: 1.2rem 1rem;
+    max-width: 520px;
+}
+
+.new-task-label {
+    background-color: #feffef;
+    border-color: #986a54;
+}
+
+.add-button {
+    margin-left: 2px;
+    transition-duration: 0.7s;
+    background-color: #5a372d;
+    border-width: 2px;
+    border-color: #5a372d;
+    color: #feffef;
+    outline: none;
+    border-radius: 4px;
+}
+
+.add-button:hover{
+    background-color: #ffffea;
+    color: #5a372d;
+}
+
+.add-button:focus{
+    outline-color: #986a54;
+}
+

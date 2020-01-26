@@ -1,0 +1,13 @@
+.task-header {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 6rem;
+    background: linear-gradient(#000000, #795548);
+    }
+
+.logo {
+    font-size: 2rem;
+    font-family: 'Pacifico', cursive;
+    color: #fffbe4;
+}
